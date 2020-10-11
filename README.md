@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Random Food Reviews 
 
-You can use the [editor on GitHub](https://github.com/ellacenteno/random-food-reviews/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome!!
+Here are some random pictures of food that I have tried during my life!! I will be reviewing (HONESTLY) fours aspects of each food: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The **FLAVOR**, the **APPEARANCE**, **QUALITY** of product, and the **STORE/RESTURANT** I bought it from. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Food 1: Unicorn Dole Whip
 
-# Header 1
-## Header 2
-### Header 3
+[Image](https://mail.google.com/mail/u/0?ui=2&ik=c60891a93d&attid=0.2&permmsgid=msg-f:1680275632267826417&th=175189c8fa1194f1&view=att&disp=safe)
 
-- Bulleted
-- List
+This is a creation called the Unicorn Dole Whip. It contains three flavors of dole whipe, which is like sorbet, those three flavors being lime, pineapple, and strawberry. Then to top it all off, there is vanilla soft serve with sprinkles and a chocolate horn. The flavor of it overall was amazing. However, if I had to choose something it would be the amount of each flavor. The lime dole whip is at the top, which overpowered the other flavors, so I would either put less lime or reorder the flavors with lime at the bottom. As you can tell from my picture, featuring my dog lol, this dessert was definietly picture worthy!! The colors all look amazing and it is just a very cute dessert to enjoy. The quality of this product was amazing, the price of this dessert was about $7. In my opinion, that is a very fair amount to pay for it. The dessert was fairly large, big enough to share, and worthy the money! For all the foodies wondering I bought this dessert from [Hula Girls Shaved Ice](https://my-site-100228-102576.square.site/), and although this specific dessert is seasonal they have an AMAZING assorment of different kinds of desserts. Ranging from shaved ice to dole whip floats!! They are located in Huntington Beach, CA and a great way to end a day at the beach! Overall a 9/10 :) 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Renee's Special 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[renee's special](https://mail.google.com/mail/u/0?ui=2&ik=c60891a93d&attid=0.1.1&permmsgid=msg-f:1680278173240474422&th=17518c1897d73b36&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ_cjDTIL4ttbkqwQuPAoKj2Qyxq4Qdcj7FBZlk27MpeeHbhF2wOD-4VqJ_ATaJjtoVqyYHlGa64eLowtd4k02E2AUGYTJnDpl_c5u2tRKu3cSrqTI4V3x9PNCw&disp=emb) 
 
-### Jekyll Themes
+This plate of food is called the Renee's Special! It's from the [Cheesecake Factory](https://www.thecheesecakefactory.com/menu/lunch-specials/renees-lunch-special/) and I am not positive but I believe the price of it was around $10-15. The meal contains a bowl of soup, half of a sandwhich, and a side salad. I personally think that the sandwhich, I got turkey, was pretty good but it tasted like an average turkey sandwich. I am not the biggest fan of salads, but the side ceasar salad was also pretty good. The best part by FAR was the soup. It was an amazing potato soup!! It was a creamy soup with cheese, bacon bits, green onions, and peices of potato! This might be my favorite soup of all time, however because they give you the soup of the day with the Renee's Special I would only get this meal again if the potato soup was the soup of the day. There is nothing special about the presentation of this meal, but it is very easy to eat and enjoy. I personally think that this meal is worth the price because it is a lot of food, and I always have leftovers!! Overall an 8/10 :o
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ellacenteno/random-food-reviews/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
