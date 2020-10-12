@@ -18,7 +18,7 @@ This is a creation called the Unicorn Dole Whip. It contains three flavors of do
 
 ### Food 2: Renee's Special 
 
-[![renee's special](IMG-0965.JPG)](https://mail.google.com/mail/u/0?ui=2&ik=c60891a93d&attid=0.1.1&permmsgid=msg-f:1680278173240474422&th=17518c1897d73b36&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ_cjDTIL4ttbkqwQuPAoKj2Qyxq4Qdcj7FBZlk27MpeeHbhF2wOD-4VqJ_ATaJjtoVqyYHlGa64eLowtd4k02E2AUGYTJnDpl_c5u2tRKu3cSrqTI4V3x9PNCw&disp=emb)
+![renee's special](IMG-0965.JPG)
 
 
 This plate of food is called the Renee's Special! It's from the [Cheesecake Factory](https://www.thecheesecakefactory.com/menu/lunch-specials/renees-lunch-special/) and I am not positive but I believe the price of it was around $10-15. The meal contains a bowl of soup, half of a sandwhich, and a side salad. I personally think that the sandwhich, I got turkey, was pretty good but it tasted like an average turkey sandwich. I am not the biggest fan of salads, but the side ceasar salad was also pretty good. The best part by FAR was the soup. It was an amazing potato soup!! It was a creamy soup with cheese, bacon bits, green onions, and peices of potato! This might be my favorite soup of all time, however because they give you the soup of the day with the Renee's Special I would only get this meal again if the potato soup was the soup of the day. There is nothing special about the presentation of this meal, but it is very easy to eat and enjoy. I personally think that this meal is worth the price because it is a lot of food, and I always have leftovers!! Overall an 8/10 :o
