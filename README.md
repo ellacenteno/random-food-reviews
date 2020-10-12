@@ -9,7 +9,7 @@ The **FLAVOR**, the **APPEARANCE**, **QUALITY** of product, and the **STORE/REST
 
 ### Food 1: Unicorn Dole Whip
 
-![Unicorn Dole Whip](IMG-0965.JPG)
+![Unicorn Dole Whip](1CC75A86-C44E-47CD-A5BD-829358809A58.JPG)
 
 
 This is a creation called the Unicorn Dole Whip. It contains three flavors of dole whipe, which is like sorbet, those three flavors being lime, pineapple, and strawberry. Then to top it all off, there is vanilla soft serve with sprinkles and a chocolate horn. The flavor of it overall was amazing. However, if I had to choose something it would be the amount of each flavor. The lime dole whip is at the top, which overpowered the other flavors, so I would either put less lime or reorder the flavors with lime at the bottom. As you can tell from my picture, featuring my dog lol, this dessert was definietly picture worthy!! The colors all look amazing and it is just a very cute dessert to enjoy. The quality of this product was amazing, the price of this dessert was about $7. In my opinion, that is a very fair amount to pay for it. The dessert was fairly large, big enough to share, and worthy the money! For all the foodies wondering I bought this dessert from [Hula Girls Shaved Ice](https://my-site-100228-102576.square.site/), and although this specific dessert is seasonal they have an AMAZING assorment of different kinds of desserts. Ranging from shaved ice to dole whip floats!! They are located in Huntington Beach, CA and a great way to end a day at the beach! Overall a 9/10 :) 
